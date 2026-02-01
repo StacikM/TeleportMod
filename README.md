@@ -6,7 +6,11 @@ A mod that allows you to change scenes using F buttons
 Scenes you can teleport into:
 
 F2 - Load Solar System
+
 F3 - Load Main Menu
+
 F4 - Teleport into the Eye of the Universe campfire
+
 F5 - Fast/Not actual ending credits
+
 F6 - Load Eye Ending credits (warning! you can't get out of them until they are finished)
