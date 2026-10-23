@@ -9,7 +9,7 @@ F2 - Load Solar System
 
 F3 - Load Main Menu
 
-F4 - Teleport into the Eye of the Universe campfire
+F4 - Teleport into the Eye of the Universe campfire (it even puts on your spacesuit wow!)
 
 F5 - Fast/Not actual ending credits
 
