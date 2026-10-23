@@ -4,7 +4,7 @@
   "author": "Stacik",
   "name": "TeleportMod",
   "uniqueName": "Stacik.TeleportMod",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "owmlVersion": "2.15.1",
   "dependencies": []
 }
